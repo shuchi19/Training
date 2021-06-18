@@ -1,1 +1,1 @@
-# Training1
+# Quest Training
